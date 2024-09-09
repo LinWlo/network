@@ -7,7 +7,7 @@ Welcome to Lin's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   netproject.md
+   netStu/index.rst
 
 Indices and tables
 ==================
